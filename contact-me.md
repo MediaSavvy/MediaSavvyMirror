@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Contact Me"
+  name: "Contact Me."
   text: ""
   tagline: Ask me a question, request a change to the wiki etc.
   actions:
